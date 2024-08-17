@@ -62,6 +62,7 @@ html{
     display: flex;
     justify-content: center;
     gap: 50px;
+    padding-bottom: 100px;
 }
 
 .heading{
@@ -99,6 +100,78 @@ html{
     text-align: center;
 }
 
+.text-purple{
+    background-color: #ebebeb;
+    color: #701e7d;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    padding: 20px 0px;
+}
 
+.company{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.text-purple-1{
+    background-color: #ebebeb;
+    color: #701e7d;
+    display: flex;
+    justify-content: center;
+    font-size: 1rem;
+    padding: 20px 0px;
+    text-decoration: underline;
+}
+
+.text-purple-3{
+    background-color: #ffffff;
+    color: #701e7d;
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    padding: 50px 0px;
+}
+
+.service-section{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding-bottom: 50px;
+}
+
+.purple-block{
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.purple-block-section{
+    background-color: #701e7d;
+    color: #ffffff;
+    border-right: 1px solid #ffffff;
+    font-size: 1.5rem;
+    padding: 50px 86.5px;
+}
 
 /* main content ended */
+
+
+/* footer started */
+
+.footer{
+    background-color: #ebebeb;
+    padding: 40px 45px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.footer-icons{
+    font-size: 1.8rem;
+    color: #000000;
+}
+
+/* footer ended */
